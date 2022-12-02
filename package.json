@@ -1,5 +1,5 @@
 {
-  "homepage": "https://hazym1nd.github.io/TodoList",
+  "homepage": "https://hazym1nd.github.io/TODOLIST",
   "name": "to-do",
   "version": "0.1.0",
   "private": true,
@@ -20,7 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d main",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
